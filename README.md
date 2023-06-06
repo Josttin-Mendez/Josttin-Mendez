@@ -26,7 +26,6 @@ I am excited to continue to grow and develop my skills as a front-end developer,
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Josttin-Mendez&theme=transparent&hide_border=true&border_radius=1.5&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 Esteban-M1000/Esteban-M1000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
