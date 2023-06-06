@@ -25,6 +25,8 @@ I am excited to continue to grow and develop my skills as a front-end developer,
 [![Github](https://img.shields.io/badge/Github-5f5f5f?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Josttin-Mendez&theme=transparent&hide_border=true&border_radius=1.5&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Harlok)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 Esteban-M1000/Esteban-M1000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
