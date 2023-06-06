@@ -6,6 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Josttin_Mendez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/josttin-mendez/)
 [![Web](https://img.shields.io/badge/Web-Portafolio.com-5f19dd?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=5eb82c)](https://portafolio2-0-cyan.vercel.app/)
 
+
 ---
 
 Front-end developer and Software Engineering student. Passionate about technology and web development, I love working on creative and challenging projects.
