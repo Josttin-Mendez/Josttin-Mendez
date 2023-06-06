@@ -2,9 +2,8 @@
 ### Front-End Web Developer.
 
 ---
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Josttin_Mendez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=ff5050) ](https://www.linkedin.com/in/josttin-mendez/)
-[![Web](https://img.shields.io/badge/Web-Portafolio.com-5f19dd?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=5eb82c)](https://portafolio2-0-cyan.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Josttin_Mendez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010) ](https://www.linkedin.com/in/josttin-mendez/)
+[![Web](https://img.shields.io/badge/Web-Portafolio.com-5eb82c?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://portafolio2-0-cyan.vercel.app/)
 
 
 ---
