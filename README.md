@@ -1,5 +1,5 @@
 # Hi! I'm Josttin Mendez.
-### Front-End Web Developer.
+### Front-End Developer.
 
 ---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Josttin_Mendez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010) ](https://www.linkedin.com/in/josttin-mendez/)
