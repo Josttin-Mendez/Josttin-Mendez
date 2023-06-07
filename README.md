@@ -1,4 +1,4 @@
-# Hi! I'm Josttin Mendez.
+# Hi! I'm Josttin Mendez
 ###  Front-End Developer.
 
 ![WhatsApp Image 2023-06-06 at 10 45 21 PM (1)](https://github.com/Josttin-Mendez/Josttin-Mendez/assets/112291940/32f47c6d-b523-4ee9-98ad-61fb28686661)
