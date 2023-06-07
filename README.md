@@ -1,12 +1,11 @@
 # Hi! I'm Josttin Mendez
-###  Front-End Developer.
+###   Front-End Developer.
 
 ![WhatsApp Image 2023-06-06 at 10 45 21 PM (1)](https://github.com/Josttin-Mendez/Josttin-Mendez/assets/112291940/32f47c6d-b523-4ee9-98ad-61fb28686661)
 
 
-
-
 ---
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Josttin_Mendez-4065DE?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010) ](https://www.linkedin.com/in/josttin-mendez/)
 [![Web](https://img.shields.io/badge/Web-Portafolio.com-ffffff?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://portafolio2-0-cyan.vercel.app/)
 
