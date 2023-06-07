@@ -1,6 +1,7 @@
 # Hi! I'm Josttin Mendez.
 ### Front-End Developer.
-![lol](https://github.com/Josttin-Mendez/Josttin-Mendez/assets/112291940/ad94e670-1c74-49fd-9bbf-dbe9c9322642)
+![WhatsApp Image 2023-06-06 at 10 39 32 PM](https://github.com/Josttin-Mendez/Josttin-Mendez/assets/112291940/3fc8152c-feb3-4530-995e-eb5fb12215fa)
+
 
 ---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Josttin_Mendez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010) ](https://www.linkedin.com/in/josttin-mendez/)
